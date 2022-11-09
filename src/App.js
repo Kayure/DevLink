@@ -1,23 +1,34 @@
-export default function App(){
-  return(
-    <div> 
-      <h1>Meu primeiro projeto</h1>
-      <br/>
+import {createBrowserRouter} from 'react-router-dom'
 
-      {/* UTILIZAÇÃO DO COMPONENTE PASSANDO DIFERENTES PROPS */}
-      <Aluno nome="Luccas Kayure" curso="FullStack Dev"/>
-      <Aluno nome="Vick" curso="Front End Dev"/>
+import Home from './pages/Home'
+import Login from './pages/Login'
+import Admin from './pages/Admin'
+import Error from './pages/Error'
 
-    </div>
-  )
-}
+//CRIAÇÃO DAS ROTAS
+const router = createBrowserRouter([
+  {
+    path:'/',
+    element:<Home/>
+  },
 
-//COMPONENTE E SEUS PARAMETROS
-function Aluno({nome, curso}){
-  return(
-    <div>
-      <h2>Bem vindo {nome} </h2>      
-      <h3>Curso Atual: {curso}</h3>
-    </div>
-  )
-}
+  {
+    path:'/login',
+    element: <Login/>
+  },
+
+  {
+    path:'/admin',
+    element: <Admin/>
+  },
+
+  {
+    path:'*',
+    element: <Error/>
+  }
+
+
+
+])
+
+export { router };
