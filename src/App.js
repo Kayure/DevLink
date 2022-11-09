@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+export default function App(){
+  return(
+    <div> 
+      <h1>Meu primeiro projeto</h1>
+      <br/>
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* UTILIZAÇÃO DO COMPONENTE PASSANDO DIFERENTES PROPS */}
+      <Aluno nome="Luccas Kayure" curso="FullStack Dev"/>
+      <Aluno nome="Vick" curso="Front End Dev"/>
+
     </div>
-  );
+  )
 }
 
-export default App;
+//COMPONENTE E SEUS PARAMETROS
+function Aluno({nome, curso}){
+  return(
+    <div>
+      <h2>Bem vindo {nome} </h2>      
+      <h3>Curso Atual: {curso}</h3>
+    </div>
+  )
+}
