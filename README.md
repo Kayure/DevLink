@@ -18,28 +18,28 @@
 
 ## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://www.netflytelecom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/355618441_850712736511744_7534907475356996556_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF6vALqwDT6adSwaVh7csh5L6H8AwulfHsvofwDC6V8e9vjGM4l4DdgRwz08zGDD9NHm0Trsin8dyYNdgAuXppx&_nc_ohc=rBKpZO0JmncAX8KpGJG&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfDSbVI3MJSG7wGDXnH_a6jUQoxSKILgg8XPT_fOZu8tRg&oe=6512B4EE"/>](https://ifpr.edu.br/paranagua/)
 
-_Suporte Técnico e Supervisor_ \
-[_SpaceX_](https://www.netflytelecom.com.br/) • Full-time \
-Linguagens & Tecnologias: `MySql`, `C++`, \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://rocketseat.com.br/)
-
-_Frot-end Developer (Jr)_ \
-[_Rocketseat_](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+_Professor Substituto Ensino Básico e Tecnológico_ \
+[_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Contrato \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Python`, `TypeScript`\
+Projetos em destaque: [Incubadora](), [SITEC]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-_Software Engineer_ \
-[_Nubank_](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+_Full-Stack Developer (Jr)_ \
+[_Singlec_](https://singlec.com.br/) • Contrato \
+Linguagens & Tecnologias: `React Native`, `Node`, `TypeScript`, `MySql` \
+Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGty9JJoayQ0w/company-logo_200_200/0/1660316220378?e=2147483647&v=beta&t=wObdgrFG5eb0jYG8D5ywOl6ZX9ncwMhFeKZqBE0vstk"/>](https://www.netflytelecom.com.br/)
+
+_Suporte Técnico e Supervisor_ \
+[_Netfly_](https://www.netflytelecom.com.br/) • Full-time \
+Linguagens & Tecnologias: `MySql`, `C++`, \
 <br/>
 
   </div>
