@@ -15,19 +15,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayure&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayure&layout=compact&langs_count=7&theme=dark"/>
 </div>
-### Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://www.netflytelecom.com.br/)
 
-_Software Engineer_ \
-[_SpaceX_](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+_Suporte Técnico e Supervisor_ \
+[_SpaceX_](https://www.netflytelecom.com.br/) • Full-time \
+Linguagens & Tecnologias: `MySql`, `C++`, \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://rocketseat.com.br/)
 
 _Frot-end Developer (Jr)_ \
 [_Rocketseat_](https://rocketseat.com.br/) • Contract \
