@@ -23,7 +23,7 @@
 _Professor Substituto Ensino Básico e Tecnológico_ \
 [_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Contrato \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Python`, `TypeScript`\
-Projetos em destaque: [Incubadora](), [SITEC]()
+Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-campus-paranagu%C3%A1-5b4547271/), [SITEC](https://www.instagram.com/sitec2023/)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C4D0BAQGty9JJoayQ0w/company-logo_200_200/0/1660316220378?e=2147483647&v=beta&t=wObdgrFG5eb0jYG8D5ywOl6ZX9ncwMhFeKZqBE0vstk"/>](https://singlec.com.br/)
@@ -35,11 +35,11 @@ Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGty9JJoayQ0w/company-logo_200_200/0/1660316220378?e=2147483647&v=beta&t=wObdgrFG5eb0jYG8D5ywOl6ZX9ncwMhFeKZqBE0vstk"/>](https://www.netflytelecom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://www.netflytelecom.com.br/)
 
 _Suporte Técnico e Supervisor_ \
-[_Netfly_](https://www.netflytelecom.com.br/) • Full-time \
-Linguagens & Tecnologias: `MySql`, `C++`, \
+[_Netfly_](https://www.netflytelecom.com.br/) • Full-time CLT \
+Linguagens & Tecnologias: `MySql`, `C++`, `Fibra Óptica`, `MikroTik`, `Redes`, \
 <br/>
 
   </div>
