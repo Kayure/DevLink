@@ -33,7 +33,6 @@ _Full-Stack Developer (Jr)_ \
 Linguagens & Tecnologias: `React Native`, `Node`, `TypeScript`, `MySql` \
 Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://www.netflytelecom.com.br/)
 
