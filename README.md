@@ -26,7 +26,7 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Python`, `TypeScript`\
 Projetos em destaque: [Incubadora](), [SITEC]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src=""https://media.licdn.com/dms/image/C4D0BAQGty9JJoayQ0w/company-logo_200_200/0/1660316220378?e=2147483647&v=beta&t=wObdgrFG5eb0jYG8D5ywOl6ZX9ncwMhFeKZqBE0vstk"/>](https://singlec.com.br/)
 
 _Full-Stack Developer (Jr)_ \
 [_Singlec_](https://singlec.com.br/) • Contrato \
@@ -35,7 +35,7 @@ Projetos em destaque: [QualitySin](https://singlec.com.br/servicos.html)
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGty9JJoayQ0w/company-logo_200_200/0/1660316220378?e=2147483647&v=beta&t=wObdgrFG5eb0jYG8D5ywOl6ZX9ncwMhFeKZqBE0vstk"/>](https://www.netflytelecom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fpoa10-1.fna.fbcdn.net/v/t39.30808-6/313263040_646099683799259_8691913375028944827_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEaMYQXIsyMeSLpaLkIPtOWJPbQjRm6wgok9tCNGbrCCke8dsdn-vV2QjHZuZPVJx4LZngjpdYrAbIo8G7ilWt8&_nc_ohc=0cnmFYfGXFMAX8J3KCv&_nc_ht=scontent.fpoa10-1.fna&oh=00_AfBei09RxY65md4eTX5DO4hWDSyocPzHphJJeNmbWzlQxA&oe=651358C4"/>](https://www.netflytelecom.com.br/)
 
 _Suporte Técnico e Supervisor_ \
 [_Netfly_](https://www.netflytelecom.com.br/) • Full-time \
